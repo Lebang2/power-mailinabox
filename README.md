@@ -44,8 +44,7 @@ The machine this appliance will be installed on needs to have the following spec
 - - Ubuntu LTS 22.04 (Jammy Jellyfish)
 
 ## Legacy Support
-The following distributions are no longer supported for the latest version, but they used to be supported at a earlier time:
-- **Debian 10 (Buster)** <= **v56.5**
+Only the following distributions are supported in the current version: Ubuntu 24.04 LTS
 
 <small>_These network requirements are usually not provided by residential ISP's. They are not **strictly required** for Power Mail-in-a-Box to install, but it will take more work to get it running as intended._</small>
 - Static, public IPv4 (most residential connections **do not** provide static addresses);
