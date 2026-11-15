@@ -39,9 +39,7 @@ The machine this appliance will be installed on needs to have the following spec
 - 512MB of RAM (**at least 1GB** is recommended);
 - 10GB of disk;
 - **One of the following operating systems:**
-- - Debian GNU/Linux 11 (Bullseye)
-- - Ubuntu LTS 20.04 (Focal Fossa)
-- - Ubuntu LTS 22.04 (Jammy Jellyfish)
+- - Ubuntu LTS 24.04 (Noble Numbat)
 
 ## Legacy Support
 Only the following distributions are supported in the current version: Ubuntu 24.04 LTS
